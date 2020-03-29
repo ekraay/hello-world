@@ -1,3 +1,3 @@
 # hello-world
 hi world
-I am Ed Kraay. I'm an agile coach, trainer, facilitator. I live in San Francisco, am married to a data scientist, researcher at Genentech. 
+I am Ed Kraay. I'm an agile coach, trainer, facilitator. I live in San Francisco, am married to a data scientist, researcher at Genentech. And I have a 9 year old son
